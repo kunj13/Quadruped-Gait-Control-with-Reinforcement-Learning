@@ -1,1 +1,0 @@
-# Quadruped-Gait-Control-with-Reinforcement-Learning
